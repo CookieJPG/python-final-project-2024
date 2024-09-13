@@ -1,10 +1,20 @@
-# [Your Project Title]
+# Sales Client Manager
+
 ## Project Description
-[Provide a brief overview of your project, 2-3 sentences]
+This application manages sales, inventory and clients for a sales representative.
+
 ## Main Idea
-[Describe the core concept or functionality of your project]
+The management of inventory, clients and specific functionalities aimed to help the
+representative keep up to date easily.
+
+### Features
+    [Functionalities will be added soon]
+
 ## Technologies
-[List any technologies or libraries you think you might use]
+- Python
+- SQLite
+- [MORE will be added]
+
 ## Project Timeline
 - Week 4: Project initialization and setup
 - Week 5: First meaningful commit beyond initial setup
